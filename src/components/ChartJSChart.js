@@ -9,6 +9,8 @@ import {
   Title,
   Tooltip,
   Legend,
+  LineController,
+  BarController,
 } from 'chart.js';
 import { Chart } from 'react-chartjs-2';
 
@@ -20,7 +22,9 @@ ChartJS.register(
   PointElement,
   Title,
   Tooltip,
-  Legend
+  Legend,
+  LineController,
+  BarController
 );
 
 const options = {

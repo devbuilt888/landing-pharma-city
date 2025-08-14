@@ -30,7 +30,7 @@ const campaignData = [
 
 const channelData = [
   { name: 'Google Ads', value: 35, spend: 15400, conversions: 425 },
-  { name: 'Facebook', value: 25, spend: 11000, spend: 298 },
+  { name: 'Facebook', value: 25, spend: 11000, conversions: 298 },
   { name: 'LinkedIn', value: 20, spend: 8800, conversions: 187 },
   { name: 'Email', value: 15, spend: 6600, conversions: 156 },
   { name: 'Other', value: 5, spend: 2200, conversions: 67 }
